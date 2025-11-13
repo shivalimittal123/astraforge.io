@@ -5,9 +5,9 @@ It intelligently generates test plans, locates UI elements, integrates with your
 
 ---
 
-## 🚀 Why AstroFroge.ai?
+## 🚀 Why AstraForge-ai?
 
-Traditional automation frameworks break often and require constant maintenance. AstroFroge.ai brings intelligence, resilience, and automation together.
+Traditional automation frameworks break often and require constant maintenance. AstraForge.io brings intelligence, resilience, and automation together.
 
 - 🧠 **AI Test Generation:** Create test plans automatically based on past test data and domain knowledge.  
 - 🔍 **Deep Scanner:** Intelligent UI element detection with self-healing locators (CSS/XPath/Accessibility).  
@@ -35,9 +35,9 @@ Traditional automation frameworks break often and require constant maintenance. 
 AstroFroge.ai integrates easily with your test ecosystem using a YAML configuration.
 
 ```yaml
-# astroforge_config.yaml
+# astraforge_config.yaml
 
-project_name: "AstroForge Sample Demo"
+project_name: "AstraForge Sample Demo"
 test_executor: "cypress_executor"
 test_manager: "xray"
 ci_cd_tool: "github_actions"
