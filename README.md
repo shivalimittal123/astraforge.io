@@ -1,6 +1,6 @@
-# 🪐 AstroFroge.ai — AI-Powered Test Automation Framework
+# 🪐 AstraForge-ai — AI-Powered Test Automation Framework
 
-**AstroFroge.ai** is an **AI-driven automation framework** that transforms how teams design, execute, and manage tests.  
+**AstraForge-ai** is an **AI-driven automation framework** that transforms how teams design, execute, and manage tests.  
 It intelligently generates test plans, locates UI elements, integrates with your DevOps toolchain, and provides real-time analytics — all powered by adaptive machine learning models.
 
 ---
