@@ -32,7 +32,7 @@ Traditional automation frameworks break often and require constant maintenance. 
 
 ## 🧩 Integration Example
 
-AstroFroge.ai integrates easily with your test ecosystem using a YAML configuration.
+AstraForge-ai integrates easily with your test ecosystem using a YAML configuration.
 
 ```yaml
 # astraforge_config.yaml
