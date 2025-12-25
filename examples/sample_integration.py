@@ -1,9 +1,9 @@
 # examples/sample_integration.py
 
-from sdk.astroforge_client import AstroFrogeClient
+from sdk.astraforge_client import AstroFrogeClient
 
 # Initialize the AstroFroge client
-astro = AstroFrogeClient(config_path="astroforge_config.yaml")
+astro = AstroFrogeClient(config_path="astraforge_config.yaml")
 
 # 1️⃣ Generate AI-based test plan
 astro.generate_test_plan(requirements="user_login_module")
