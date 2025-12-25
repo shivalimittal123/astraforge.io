@@ -18,7 +18,7 @@ It intelligently generates test plans, locates UI elements, integrates with your
 
 ## 🤝 Stay Connected
 
-If you'd like to stay connected with AstroFroge.ai and follow updates:
+If you'd like to stay connected with AstraFroge.io and follow updates:
 
 - ⭐ Star this repository to support the project
 - 👀 Watch the repo to receive update notifications
